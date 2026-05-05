@@ -25,7 +25,7 @@ I prioritize:
 ---
 
 <p align="center">
-  <strong>My focus is not just writing code — <br>but building structured systems ready for real-world usage.</strong>
+  <strong>My focus is not just writing code<br>but building structured systems ready for real-world usage.</strong>
 </p>
 
 
