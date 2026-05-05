@@ -24,8 +24,10 @@ I prioritize:
 
 ---
 
-My focus is not just writing code —  
-but building structured systems ready for real-world usage.
+<p align="center">
+  <strong>My focus is not just writing code — <br>but building structured systems ready for real-world usage.</strong>
+</p>
+
 
 ---
 
